@@ -1,0 +1,37 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+}
+.logo
+{
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 40pxs;
+}
+.links
+{
+    margin-left: 70%;
+}
+.links a
+{
+  text-decoration: none;
+  color: black ;
+  padding-left: 20px;
+  font-size: 24px;
+}
+.navbar
+{
+    padding: 20px 0;
+    box-shadow: 16px 8px 30px grey;
+}
+.contact-card
+{
+    width: 400px;
+    text-align: center;
+}
+.contact-card job
+{
+    font-size: 28px;
+    font-family: ;
+}
